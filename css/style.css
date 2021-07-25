@@ -1,0 +1,13 @@
+.color:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.background-clr{
+    background-color: rgb(233, 233, 233);
+}
+
+
+.form-bg{
+    background-color: rgb(218, 218, 218);
+}
